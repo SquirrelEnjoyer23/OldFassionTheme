@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: OldFassionTheme
+description: "A old fassioned looking website theme!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
